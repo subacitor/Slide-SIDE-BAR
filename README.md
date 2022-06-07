@@ -40,7 +40,7 @@
 .side-bar {
     position: absolute;
     opacity: 0;
-    width: 100%;
+    width: 400px;
     height: 100%;
     top: 0;
     left: -400px;
